@@ -1,10 +1,13 @@
 # https://ghostty.org/docs/config/reference
 font-family = Cartograph CF
-font-style = Regular
-font-style-bold = Bold
-font-style-italic = Regular Italic
-font-style-bold-italic = Bold Italic
+font-style = Demi Bold
+font-style-bold = Heavy
+font-style-italic = Demi Bold Italic
+font-style-bold-italic = Heavy Italic
 font-feature = ss03
 font-size = 17
 window-height = 33
-window-width = 152
+window-width = 144
+window-padding-x = 0
+window-padding-y = 0
+mouse-hide-while-typing = true
