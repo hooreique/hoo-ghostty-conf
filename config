@@ -15,6 +15,7 @@ window-width              = 144
 window-padding-x          = 0
 window-padding-y          = 0
 mouse-hide-while-typing   = true
+clipboard-read            = allow
 
 background-opacity        = 0.95
 # background-blur-radius    = 20
