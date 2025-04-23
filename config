@@ -8,6 +8,8 @@ font-style-italic         = Demi Bold Italic
 font-style-bold-italic    = Heavy Italic
 font-feature              = ss03
 font-size                 = 20
+cursor-color              = e1e3e4
+cursor-text               = 181a1c
 adjust-cell-width         = -10%
 adjust-cell-height        = -25%
 adjust-cursor-height      = -25%
@@ -21,3 +23,7 @@ clipboard-read            = allow
 
 background-opacity        = 0.95
 # background-blur-radius    = 20
+
+macos-option-as-alt       = true
+macos-titlebar-style      = tabs
+macos-window-shadow       = false
