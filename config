@@ -1,6 +1,7 @@
 # https://ghostty.org/docs/config/reference
 
-theme                     = Monokai Pro Octagon
+theme                     = sonokai
+window-theme              = dark
 font-family               = Cartograph CF
 font-style                = Demi Bold
 font-style-bold           = Heavy
