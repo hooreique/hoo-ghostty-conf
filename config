@@ -29,6 +29,7 @@ background-opacity = 0.95
 macos-option-as-alt  = true
 macos-titlebar-style = tabs
 macos-window-shadow  = false
+macos-shortcuts      = deny
 
 keybind = clear
 
