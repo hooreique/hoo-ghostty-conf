@@ -1,5 +1,6 @@
 # https://ghostty.org/docs/config/reference
 
+command                   = direct:/Users/kia2964158/.nix-profile/bin/zsh
 theme                     = sonokai
 window-theme              = dark
 font-family               = Cartograph CF
